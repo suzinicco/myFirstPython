@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52b16dfc-e5eb-4b2b-9f26-28422e35c92b" name="Default" comment="" />
+    <list default="true" id="52b16dfc-e5eb-4b2b-9f26-28422e35c92b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/greeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/greeter.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/parrot.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -92,9 +94,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1120" />
+    <option name="width" value="1680" />
     <option name="height" value="975" />
   </component>
   <component name="ProjectView">
@@ -102,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,7 +129,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,7 +278,7 @@
       <window_info anchor="bottom" x="21" y="366" width="1638" height="289" id="Python Console" order="7" weight="0.33801168" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32748538" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49823323" visible="true" weight="0.1929182" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49823323" visible="true" weight="0.1953602" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.21916972" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -304,6 +306,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="20180521-3" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/toppings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parrot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/toppings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -467,7 +490,7 @@
     <entry file="file://$PROJECT_DIR$/parrot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
